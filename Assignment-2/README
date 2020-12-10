@@ -1,0 +1,7 @@
+Implement a function to compute factorial using:
+
+1. iteration with no mutability
+
+2. regular recursion
+
+3. tail recursion
