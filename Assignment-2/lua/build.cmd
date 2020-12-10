@@ -1,0 +1,1 @@
+call lua test\FactorialClassTest.lua
