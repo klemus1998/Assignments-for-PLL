@@ -1,0 +1,9 @@
+task default: %w[test]
+
+task :test do
+  ruby 'test/guess_test.rb'
+end
+
+task :run do
+  ruby 'lib/game.rb'
+end
